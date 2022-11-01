@@ -14,6 +14,7 @@ This is why short-term forecasting is so important in the retail and consumer go
 Skills Developed:
 
 Exploratory Data Analysis
+
 IBM cloud
 
 
