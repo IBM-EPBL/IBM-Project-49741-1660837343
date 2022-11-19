@@ -17,7 +17,7 @@ Exploratory Data Analysis
 
 IBM cloud
 
-Adminstrator: Username: test_admin Password: jduejHje(89K
+Adminstrator: Username: test_admin Password: harikavi
 
-Manager: Username: test_manager Password: jduejHje(89K
+Manager: Username: test_manager Password: harikavi
 
