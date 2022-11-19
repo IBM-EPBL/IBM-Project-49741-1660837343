@@ -15,13 +15,8 @@ Skills Developed:
 
 Exploratory Data Analysis
 
-IBM cloud
+IBM CLOUD
 
-Adminstrator: Username: test_admin Password: harikavi
-
-Manager: Username: test_manager Password: harikavi
-
-FRONT END:https://frontend.ssm.webapps.uplandsdynamic.com/
  
 
 
