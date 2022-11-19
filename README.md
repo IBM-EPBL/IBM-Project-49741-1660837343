@@ -21,7 +21,7 @@ Adminstrator: Username: test_admin Password: harikavi
 
 Manager: Username: test_manager Password: harikavi
 
-https://frontend.ssm.webapps.uplandsdynamic.com/-DEMO LINK
+https://frontend.ssm.webapps.uplandsdynamic.com  
 
 
 
